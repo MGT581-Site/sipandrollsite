@@ -1,0 +1,33 @@
+
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f9f6f1;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 2rem;
+    background-color: #fffaf3;
+}
+
+nav ul {
+    list-style: none;
+    background-color: #8b5e3c;
+    padding: 0;
+    text-align: center;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
